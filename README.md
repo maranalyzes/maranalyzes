@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Mar Álvarez
 
-<!--
-**maranalyzes/maranalyzes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Junior Data Analyst | 🇲🇽🇪🇸 Bilingual (ES/EN) | Passionate about data with a human touch
 
-Here are some ideas to get you started:
+💼 From 10+ years in tourism | Currently finishing a Data Analytics Bootcamp @ TripleTen
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 I speak 4 languages and love discovering insights that connect people, places, and decisions.
+
+## 🛠 Tech Stack
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL)
+- Excel, Google Sheets
+- Tableau, Power BI (in progress)
+
+## 📊 Projects
+- [📱 Megaline Plan Optimization](https://github.com/maranalyzes/megaline-tariff-analysis): Identifying the most profitable mobile plan using user data
+- [✈️ Tourism Dashboard (coming soon)](): Building a dashboard for tourism KPIs in Europe
+- [📍 Customer Segmentation](https://github.com/maranalyzes/customer-segmentation): Clustering analysis to understand customer behavior
+
+## 🌱 Currently Learning
+- Advanced data visualization
+- Power BI dashboards
+- Project deployment
+
+## 💌 Let's Connect!
+📧 maranalyzes@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/margarita-a-a2a986200) 
