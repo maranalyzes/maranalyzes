@@ -23,5 +23,5 @@
 - Project deployment
 
 ## 💌 Let's Connect!
-📧 maranalyzes@gmail.com  
+📧 alvarezliramar@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/margarita-a-a2a986200) 
