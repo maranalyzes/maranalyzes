@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mar Álvarez</h1>
+<h1 align="center">Hi 👋, I'm Mar Alvarez</h1>
 <h3 align="center">Data Analyst | Business Operations & Reporting | Switzerland</h3>
 
 <p align="center">
@@ -17,7 +17,7 @@
 - 🔁 From tourism to tech: 10+ years of experience in the **travel & customer service industry**
 - 🎯 **Data Analytics Bootcamp @TripleTen**
 - 🧳 I love turning messy data into clear stories and business insights
-- 🇲🇽🇪🇸 Dual citizen | 🗣 Languages: Spanish (Native), English (C1), French (B2), Italian (B1), German (A2)
+- 🇲🇽🇪🇸 Dual citizen | 🗣 Languages: Spanish (Native), English (C1), French (C1), Italian (C1), German (B1)
 - 🌍 Open to remote roles & international opportunities
 
 ---
@@ -25,7 +25,7 @@
 ### 🛠 Tech Stack
 
 - **Languages**: Python (Pandas, NumPy), SQL
-- **Visualization**: Tableau, Excel, Power BI (learning)
+- **Visualization**: Tableau, Excel, Power BI 
 - **Tools**: Jupyter Notebook, Google Sheets, GitHub, Salesforce (CRM)
 - **Soft skills**: Customer experience, Tour leadership, Communication, Problem-solving
 
